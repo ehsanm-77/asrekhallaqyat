@@ -1,0 +1,1 @@
+export {default as EachCard} from './Card'
